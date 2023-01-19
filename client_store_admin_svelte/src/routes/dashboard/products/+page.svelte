@@ -1,7 +1,7 @@
 <script>
-    import Product from "../../components/product/+product.svelte";
-    import Products from "../../components/product/+products.svelte";
-    import Upload from "../../components/product/+upload.svelte";
+    import Product from "../../../components/product/+product.svelte";
+    import Products from "../../../components/product/+products.svelte";
+    import Upload from "../../../components/product/+upload.svelte";
 
     let switch_ = true
 

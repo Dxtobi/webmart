@@ -1,11 +1,11 @@
 <script>
-    import Box from "../../components/boxs/+box.svelte";
+    import Box from "../../../components/boxs/+box.svelte";
     import SiVirustotal from "svelte-icons-pack/si/SiVirustotal";
     import BiSolidUserPin from "svelte-icons-pack/bi/BiSolidUserPin";
     import BiSolidCartAdd from "svelte-icons-pack/bi/BiSolidCartAdd";
     import IoBagHandle from "svelte-icons-pack/io/IoBagHandle";
     import { each } from "svelte/internal";
-    import TopProduct from "../../components/topproducts/+topProduct.svelte";
+    import TopProduct from "../../../components/topproducts/+topProduct.svelte";
 
 const allData = [
     {name:'total sales', icon:SiVirustotal, amount:12000, totalpac:84.22, index:0 },
