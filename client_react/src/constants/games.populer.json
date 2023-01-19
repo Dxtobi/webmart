@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Fire Emblem Engage",
+    "id": 13896,
+    "firstReleaseDate": "2023-01-20T00:00:00.000Z",
+    "tier": "",
+    "images": {
+      "box": {
+        "og": "game/13896/o/vbtbBp2z.jpg",
+        "sm": "game/13896/oR9UVsze.jpg"
+      },
+      "banner": {
+        "og": "game/13896/o/OresSl6w.jpg",
+        "sm": "game/13896/6HDFWew9.jpg"
+      }
+    },
+    "topCriticScore": -1
+  },
+  {
+    "name": "Forspoken",
+    "id": 13945,
+    "firstReleaseDate": "2023-01-24T00:00:00.000Z",
+    "tier": "",
+    "images": {
+      "box": {
+        "og": "game/13945/o/8EVE0LCE.jpg",
+        "sm": "game/13945/Y6RyHR4B.jpg"
+      },
+      "banner": {
+        "og": "game/13945/o/AOee2Rkz.jpg",
+        "sm": "game/13945/urTioyeC.jpg"
+      }
+    },
+    "topCriticScore": -1
+  },
+  {
+    "name": "Dead Space (Remake)",
+    "id": 13897,
+    "firstReleaseDate": "2023-01-27T00:00:00.000Z",
+    "tier": "",
+    "images": {
+      "box": {
+        "og": "game/13897/o/h9rL80yR.jpg",
+        "sm": "game/13897/jwdgFHWW.jpg"
+      },
+      "banner": {
+        "og": "game/13897/o/qe1AvB7w.jpg",
+        "sm": "game/13897/7PNE8e9O.jpg"
+      }
+    },
+    "topCriticScore": -1
+  },
+  {
+    "name": "Deliver Us Mars",
+    "id": 13379,
+    "firstReleaseDate": "2023-02-03T00:00:00.000Z",
+    "tier": "",
+    "images": {
+      "box": {
+        "og": "game/13379/o/uXSQ7Rsw.jpg",
+        "sm": "game/13379/1uHiEhz3.jpg"
+      },
+      "banner": {
+        "og": "game/13379/o/kpz69Kaf.jpg",
+        "sm": "game/13379/brwgnKmH.jpg"
+      }
+    },
+    "topCriticScore": -1
+  },
+  {
+    "name": "Dead Island 2",
+    "id": 1551,
+    "firstReleaseDate": "2023-02-03T00:00:00.000Z",
+    "tier": "",
+    "images": {
+      "box": {
+        "og": "game/1551/o/6d7NeSLn.jpg",
+        "sm": "game/1551/y64ZjQQs.jpg"
+      },
+      "banner": {
+        "og": "game/1551/o/mRJ7zyrx.jpg",
+        "sm": "game/1551/6ZAQjjiN.jpg"
+      }
+    },
+    "topCriticScore": -1
+  },
+  {
+    "name": "The Lord of the Rings: Gollum",
+    "id": 13215,
+    "firstReleaseDate": "2023-02-07T00:00:00.000Z",
+    "tier": "",
+    "images": {
+      "box": {
+        "og": "game/13215/o/KtdetDQj.jpg",
+        "sm": "game/13215/gdAmC4Db.jpg"
+      },
+      "banner": {
+        "og": "game/13215/o/TlNQfy2D.jpg",
+        "sm": "game/13215/KXmcLNGB.jpg"
+      }
+    },
+    "topCriticScore": -1
+  },
+  {
+    "name": "Hogwarts Legacy",
+    "id": 13898,
+    "firstReleaseDate": "2023-02-10T00:00:00.000Z",
+    "tier": "",
+    "images": {
+      "box": {
+        "og": "game/13898/o/KTqY7Kq8.jpg",
+        "sm": "game/13898/00BLF63l.jpg"
+      },
+      "banner": {
+        "og": "game/13898/o/m0V9CQ4G.jpg",
+        "sm": "game/13898/bY63v1rL.jpg"
+      }
+    },
+    "topCriticScore": -1
+  },
+  {
+    "name": "Wild Hearts",
+    "id": 13899,
+    "firstReleaseDate": "2023-02-17T00:00:00.000Z",
+    "tier": "",
+    "images": {
+      "box": {
+        "og": "game/13899/o/2O38ZBgb.jpg",
+        "sm": "game/13899/5RKzaGzH.jpg"
+      },
+      "banner": {
+        "og": "game/13899/o/seu9WlEU.jpg",
+        "sm": "game/13899/SoJXgBXp.jpg"
+      }
+    },
+    "topCriticScore": -1
+  }
+]
