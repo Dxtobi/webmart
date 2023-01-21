@@ -6,6 +6,6 @@
     </script>
     
     <a href={`${link}`} class="sb-item-link">
-        <Icon src={icon} color="#0072d5" size="20" title="Custom icon params" />
+        <Icon src={icon} color="#0072d5" size="20" title={name} />
         <div class="sb-item-link-link">{name}</div>
     </a>

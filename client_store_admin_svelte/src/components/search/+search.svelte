@@ -22,9 +22,9 @@
             <Icon src={FaSolidUserCircle} color="#0072d5" size="20" title="profile" />
             <div class="user-name-h">Akanbi</div>
         </div>
-        <select name="dog-names" id="logout-drop-down">
-            <option></option>
-            <option value="rigatoni" class="drop-option">Logout</option>
-        </select>
+        <form action="/login?/logout" method="POST">
+            <button class="btn btn-primary">Logout</button>
+        </form>
+        
     </div>
 </div>

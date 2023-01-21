@@ -1,11 +1,12 @@
 <script>
-    export let data, user
-    import Dashboard from './dashboard/overview/+page.svelte'
-
-    console.log(data, user)
+   
+   // import Dashboard from './dashboard/overview/+page.svelte'
+    export let data
+    console.log(data)
 
 </script>
 
 <div class="pannel">
-        <Dashboard/>
+        <h1>WELCOME TO STORE FRONT</h1>
+        <a href="/dashboard/overview">go to Dashboard</a>
 </div>
